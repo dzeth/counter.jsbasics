@@ -11,5 +11,5 @@ Si inizia con 0 (zero) ed è possibile, in qualsiasi momento, resettare e tornar
 1. Clicca su "Code" e scarica il file in formato ZIP - Estrai i file ed utilizza un editor per visualizzare il codice e testare il progetto
 2. Clona la repo   
    ```sh
-   git clone https://github.com/TUO_NOME/counter.jsbasics.git
+   git clone https://github.com/dzeth/counter.jsbasics.git
    ```

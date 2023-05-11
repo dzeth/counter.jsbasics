@@ -8,15 +8,8 @@ Si inizia con 0 (zero) ed è possibile, in qualsiasi momento, resettare e tornar
 
 ### Installazione
 
-1. Clona la repo
+1. Clicca su "Code" e scarica il file in formato ZIP - Estrai i file ed utilizza un editor per visualizzare il codice e testare il progetto
+2. Clona la repo   
    ```sh
    git clone https://github.com/TUO_NOME/counter.jsbasics.git
-   ```
-3. Installa i pacchetti NPM
-   ```sh
-   npm install
-   ```
-4. Inserisci la tua API su `config.js`
-   ```js
-   const API_KEY = 'LA TUA API';
    ```
